@@ -1,7 +1,7 @@
-#Saying Hello World in Python
-
+#Intro about Me in Python
 myName= "Tetelo Komane"
 myAge= 28
+
 bestMom=input("Enter the name of the Best Mom in the whole world :")
 quotes=input("Enter your favourite quote that keeps you going :")
 print("Hello World my name is "+myName+" I am "+str(myAge)+" years old" )
